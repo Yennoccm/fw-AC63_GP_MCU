@@ -41,9 +41,9 @@ Build
 -------------
 Select a project to build. The following folders contains buildable projects:
 
-* APP_TOY: [Toy](./apps/spp_and_le), usage: 
+* APP_TOY: [Toy](/apps/spp_and_le), usage: 
 
-* APP_MCU: [MCU](./apps/hid), usage: 
+* APP_MCU: [MCU](/apps/hid), usage: 
 
 
 Comming Soon：
